@@ -223,6 +223,7 @@
                bottom: 47px;
                width: 100%;
                text-align: center;
+               text-shadow: 0 0 2px #000;
            }
            
            #slider .text-content .text-heading {
