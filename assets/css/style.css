@@ -424,6 +424,10 @@
                width: 100%;
            }
            
+           .contact-form .row:first-child .col {
+               width: 50%;
+           }
+           
            .map-section img {
                width: 100%;
            }
